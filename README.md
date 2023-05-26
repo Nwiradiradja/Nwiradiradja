@@ -16,3 +16,17 @@ My Name is Nathaniel Wiradiradja I am a Queens College graduate with a bachelors
 * 🐍 Python
 * 📃 HTML,CSS, JS
 
+## Softwares
+* Visual Studio Code
+* PyCharm
+* CLion
+* Eclipse
+* Android Studio
+* SQL
+* Microsoft SQL Server Management
+* DBeaver
+* PostgreSQL
+* ErwinDM
+* Docker
+* MongoDB
+* Apache Spark
