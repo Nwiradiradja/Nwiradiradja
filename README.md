@@ -8,13 +8,17 @@ My Name is Nathaniel Wiradiradja I am a Queens College graduate with a bachelors
 * 💾 Computer Architecture
 * 📊 Data Modeling
 * 🌐 Database Systems
+* 📊 Data Analysis
+* 📊 Data Visualization
+* 📊 Data Science
+* 📊 Data Engineering
 * 🟠 Java
 * 🔵 C++
 * 🐬 SQL
 * 🐍 Python
 * 📃 HTML,CSS, JS
 
-## Softwares
+## Softwares and Tools
 * Visual Studio Code
 * PyCharm
 * CLion
@@ -28,3 +32,8 @@ My Name is Nathaniel Wiradiradja I am a Queens College graduate with a bachelors
 * Docker
 * MongoDB
 * Apache Spark
+* IBM Cloud
+* Qlik Analytics
+* Azure
+* UKG
+* Microsoft Office
