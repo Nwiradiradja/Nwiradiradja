@@ -12,6 +12,7 @@ My Name is Nathaniel Wiradiradja I am a Queens College graduate with a bachelors
 * 📊 Data Visualization
 * 📊 Data Science
 * 📊 Data Engineering
+* 📊 Data Cleaning & Transformation
 * 🟠 Java
 * 🔵 C++
 * 🐬 SQL
