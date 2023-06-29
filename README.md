@@ -40,3 +40,4 @@ My Name is Nathaniel Wiradiradja I am a Queens College graduate with a bachelors
 * Azure
 * UKG
 * Microsoft Office
+* AWS Cloud
