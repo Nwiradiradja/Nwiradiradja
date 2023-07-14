@@ -43,3 +43,4 @@ My Name is Nathaniel Wiradiradja I am a Queens College graduate with a bachelors
 * UKG
 * Microsoft Office
 * AWS Cloud
+* Snowflake
