@@ -22,6 +22,7 @@ My Name is Nathaniel Wiradiradja I am a Queens College graduate with a bachelors
 * 🐬 SQL
 * 🐍 Python
 * 📃 HTML,CSS, JS
+* 🌐 R Programming
 
 ## Softwares and Tools
 * Visual Studio Code
@@ -44,3 +45,4 @@ My Name is Nathaniel Wiradiradja I am a Queens College graduate with a bachelors
 * Microsoft Office
 * AWS Cloud
 * Snowflake
+* RStudio
